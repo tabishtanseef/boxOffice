@@ -73,7 +73,7 @@ function Home() {
         </div>
         <div>
           <CustomRadio
-            label="Actore"
+            label="Actors"
             id="actor-search"
             type="radio"
             value="people"
